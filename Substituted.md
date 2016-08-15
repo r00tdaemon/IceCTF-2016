@@ -1,0 +1,4 @@
+Title gave it away. Substitution cipher.<br>
+Used <a href="http://quipqiup.com/index.php">this</a> to crack
+
+Hi!  Welcome to IceCTF!  I'll be your substitute flag for the day. For today, we are studying basic cryptography and its applications. Cryptography has a long history, although with the advent of computers it has gotten really complicated. Some simple old ciphers are the Caesar cipher, the Vigenere cipher, the substitution cipher, which is this one, and so on. Almost all of these ciphers are easily broken today with the help of computers. Some new encryption methods are AES, the current standard for encryption, along with RSA. Cryptography is a vast field and is very interesting though. So kick back, read up on some cool ciphers and have fun!  Oh and for your records my name is <b>IceCTF{always_listen_to_your_substitute_flags}</b>
