@@ -1,4 +1,4 @@
-Description say he used git. Couldn't find anything on the website. Let's try to see robots.txt.<br>
+Description said he used git. Couldn't find anything on the website. Let's try to see robots.txt.<br>
 ```
 User-Agent: *
 Disallow: /.git
